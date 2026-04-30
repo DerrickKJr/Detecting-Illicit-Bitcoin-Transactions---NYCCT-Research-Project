@@ -1,0 +1,16 @@
+# datasets — too large for GitHub, download links in README
+*.csv
+
+# scratch files
+archive.zip
+1.png
+Figure_1.png
+
+# personal documents
+*.pdf
+*.docx
+
+# Python
+__pycache__/
+*.pyc
+.DS_Store
